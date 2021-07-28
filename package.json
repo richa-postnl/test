@@ -1,0 +1,19 @@
+{
+  "name": "test-emp",
+  "version": "1.0.0",
+  "description": "test of emp",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richa-postnl/test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richa-postnl/test/issues"
+  },
+  "homepage": "https://github.com/richa-postnl/test#readme"
+}
