@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/richa-postnl/test/issues"
   },
-  "homepage": "https://github.com/richa-postnl/test#readme"
+  "homepage": "https://github.com/richa-postnl/test#readme",
+  "publishConfig":{"registry":"https://lpe.jfrog.io/ui/native/event-manager-npm-acc-virtual/"}
 }
